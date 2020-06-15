@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.d72f4f0476dc20168ce0482b8c86817a.js"
+  "precache-manifest.f7eb66091e229b0e61b74baba7c72d00.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "thoughtcloud"});
